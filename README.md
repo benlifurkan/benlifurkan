@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=600)
+![MasterHead](https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 <h1 align="center">Merhaba 👋, Ben Furkan Benli</h1>
 <h3 align="center">Bilgisayar Programcılığı bölümünden yeni mezun olmuş ve C# .NET MVC ortamında web uygulamaları geliştirme konusunda tecrübe sahibi genç bir yazılım geliştiricisiyim.</h3>
